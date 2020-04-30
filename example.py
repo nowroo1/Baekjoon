@@ -1,7 +1,2 @@
-a = 10
-b = a
-
-b = 5
-
-print(a)
-print(b)
+a = 11
+print(a if a == 10 else a == 11)
